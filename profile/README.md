@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is a community
+Warmly welcome you to Aeris Labs.
 
 <!--
 
