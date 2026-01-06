@@ -1,7 +1,5 @@
 # Aeris Global
 
-## Overview
-
 Aeris is a modern software development company specializing in custom web applications, mobile apps, desktop solutions, and WordPress websites. We transform business requirements into scalable, high-performance digital products using cutting-edge technologies.
 
 **🛠️ Core Technologies:**
